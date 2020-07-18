@@ -1,4 +1,3 @@
-package com.timbuchaka;
 
 import java.util.Scanner;
 
